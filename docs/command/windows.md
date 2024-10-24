@@ -1,0 +1,1 @@
+- [环境变量](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/setx)
