@@ -1,0 +1,13 @@
+.VPNavBarTitle .logo {
+    border-radius: 50%;
+}
+
+.zy-scroll::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+
+.zy-scroll::-webkit-scrollbar-thumb {
+    background: var(--vp-c-brand);
+    border-radius: 2.5px;
+}
